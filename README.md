@@ -1,0 +1,3 @@
+This is the official repository of Barbero-Mota et al 2025 `Disease-Diagnosis Semantic Gap: Implications for Causal Inference` publication to the 2025 Americal Medical Informatics Association Annual Symposium,
+
+Coming soon ...
