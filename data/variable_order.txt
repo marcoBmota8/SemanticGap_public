@@ -1,0 +1,12 @@
+0. Smoking
+1. Yellow_Fingers
+2. Anxiety
+3. Peer_Pressure
+4. Genetics
+5. Attention_Disorder
+6. Born_an_Even_Day
+7. Car_Accident
+8. Fatigue
+9. Allergy
+10. Coughing
+11. Lung_Cancer

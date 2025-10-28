@@ -1,0 +1,36 @@
+Training causal model for Lung_Cancer as target...
+Tuning model...
+Fitting 5 folds for each of 100 candidates, totalling 500 fits
+Estimating out-of-sample performance...
+Fitting 5 folds for each of 100 candidates, totalling 500 fits
+Fitting 5 folds for each of 100 candidates, totalling 500 fits
+Fitting 5 folds for each of 100 candidates, totalling 500 fits
+Fitting 5 folds for each of 100 candidates, totalling 500 fits
+Fitting 5 folds for each of 100 candidates, totalling 500 fits
+[Parallel(n_jobs=1)]: Done   5 out of   5 | elapsed:  6.0min finished
+Nested CV AUROC: 0.721 ± 0.036
+Scores: [0.67772569 0.77332198 0.68735317 0.71704096 0.74720982]
+Training causal model for Diagnosis_clean as target...
+Tuning model...
+Fitting 5 folds for each of 100 candidates, totalling 500 fits
+Estimating out-of-sample performance...
+Fitting 5 folds for each of 100 candidates, totalling 500 fits
+Fitting 5 folds for each of 100 candidates, totalling 500 fits
+Fitting 5 folds for each of 100 candidates, totalling 500 fits
+Fitting 5 folds for each of 100 candidates, totalling 500 fits
+Fitting 5 folds for each of 100 candidates, totalling 500 fits
+[Parallel(n_jobs=1)]: Done   5 out of   5 | elapsed:  6.2min finished
+Nested CV AUROC: 0.743 ± 0.020
+Scores: [0.74340513 0.772146   0.71090829 0.74044118 0.748125  ]
+Training causal model for Diagnosis_noisy as target...
+Tuning model...
+Fitting 5 folds for each of 100 candidates, totalling 500 fits
+Estimating out-of-sample performance...
+Fitting 5 folds for each of 100 candidates, totalling 500 fits
+Fitting 5 folds for each of 100 candidates, totalling 500 fits
+Fitting 5 folds for each of 100 candidates, totalling 500 fits
+Fitting 5 folds for each of 100 candidates, totalling 500 fits
+Fitting 5 folds for each of 100 candidates, totalling 500 fits
+[Parallel(n_jobs=1)]: Done   5 out of   5 | elapsed:  6.0min finished
+Nested CV AUROC: 0.708 ± 0.019
+Scores: [0.71565151 0.68534944 0.69109702 0.70950788 0.73960311]
